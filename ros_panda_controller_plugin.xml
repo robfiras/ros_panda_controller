@@ -1,0 +1,7 @@
+<library path="lib/libros_panda_agent">
+  <class name="ros_panda_controller/PandaController" type="ros_panda_controller::PandaController" base_class_type="controller_interface::ControllerBase">
+    <description>
+      A controller that executes commands given by an rl-agent.
+    </description>
+  </class>
+</library>
